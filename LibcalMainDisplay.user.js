@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Libcal Modification
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Removes the BC header and other pieces for portrait touchscreen
 // @author       Ryan Bley
 // @match        https://cincinnatilibrary.libcal.com/*
@@ -38,6 +38,6 @@
 
               ` );
     document.querySelector("#s-lc-eq-confirmed > div > div.panel-heading > h2").childNodes[2].textContent='Confirmed Room Bookings and Events';
-    document.querySelector("#s-lc-nick-new-booking-btn > a").textContent='Make a Booking';
+    document.querySelector("#s-lc-nick-new-booking-btn > a").textContent='Book a Space';
 
 })();
