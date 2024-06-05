@@ -7,6 +7,8 @@
 // @match        https://cincinnatilibrary.libcal.com/*
 // @icon         https://cincinnatilibrary.libcal.com/favicon.ico
 // @grant        GM_addStyle
+// @downloadURL  https://github.com/cincinnatilibrary/userscripts/raw/main/LibcalMainDisplay.user.js
+// @updateURL    https://github.com/cincinnatilibrary/userscripts/raw/main/LibcalMainDisplay.user.js
 // ==/UserScript==
 
 (function() {
