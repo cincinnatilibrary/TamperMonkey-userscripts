@@ -38,6 +38,6 @@
 
               ` );
     document.querySelector("#s-lc-eq-confirmed > div > div.panel-heading > h2").childNodes[2].textContent='Confirmed Room Bookings and Events';
-    document.querySelector("#s-lc-nick-new-booking-btn > a").textContent='Book a Space';
+    document.querySelector("#s-lc-nick-new-booking-btn > a").textContent='Make a Booking';
 
 })();
