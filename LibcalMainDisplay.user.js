@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Libcal Modification
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0.0
 // @description  Removes the BC header and other pieces for portrait touchscreen
 // @author       Ryan Bley
 // @match        https://cincinnatilibrary.libcal.com/*
