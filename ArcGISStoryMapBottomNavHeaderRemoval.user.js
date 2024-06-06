@@ -7,8 +7,8 @@
 // @match        https://storymaps.arcgis.com/stories/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=arcgis.com
 // @grant        GM_addStyle
-// @downloadURL  https://github.com/cincinnatilibrary/userscripts/raw/main/ArcGISStoryMapBottomNavHeaderRemoval.user.js
-// @updateURL    https://github.com/cincinnatilibrary/userscripts/raw/main/ArcGISStoryMapBottomNavHeaderRemoval.user.js
+// @downloadURL  https://github.com/cincinnatilibrary/TamperMonkey-userscripts/raw/main/ArcGISStoryMapBottomNavHeaderRemoval.user.js
+// @updateURL    https://github.com/cincinnatilibrary/TamperMonkey-userscripts/raw/main/ArcGISStoryMapBottomNavHeaderRemoval.user.js
 // ==/UserScript==
 
 (function() {

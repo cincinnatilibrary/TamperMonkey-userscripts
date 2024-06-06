@@ -7,8 +7,8 @@
 // @match        https://chpl.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=arcgis.com
 // @grant        GM_addStyle
-// @downloadURL  https://github.com/cincinnatilibrary/userscripts/raw/main/BiblioWebModification.user.js
-// @updateURL    https://github.com/cincinnatilibrary/userscripts/raw/main/BiblioWebModification.user.js
+// @downloadURL  https://github.com/cincinnatilibrary/TamperMonkey-userscripts/raw/main/BiblioWebModification.user.js
+// @updateURL    https://github.com/cincinnatilibrary/TamperMonkey-userscripts/raw/main/BiblioWebModification.user.js
 // ==/UserScript==
 
 (function() {
