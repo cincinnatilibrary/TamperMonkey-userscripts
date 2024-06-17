@@ -35,7 +35,7 @@
                observer.disconnect();
                GM_addStyle ( `
                     .container {
-                         top: 6.4rem !important;
+                         top: 0 !important;
                     }
                ` );
           }
