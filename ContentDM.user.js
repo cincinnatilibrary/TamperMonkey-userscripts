@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ContentDM Changes
 // @namespace    http://tampermonkey.net/
-// @version      21.0.0
+// @version      1.0.1
 // @description  Changes button placement for ContentDM
 // @author       Ryan Bley
 // @match        https://digital.cincinnatilibrary.org/*
@@ -15,9 +15,12 @@
     'use strict';
 
     GM_addStyle ( `
-        .ImageViewer-buttonGroup, .Lightbox-lightbox > div:nth-child(2) {
-            bottom: 0 !important;
-            top: unset !important;
-        }
+.ImageViewer-buttonGroup, .Lightbox-lightbox > div:nth-child(2) {
+  bottom: 0 !important;
+  top: unset !important;
+}
+.Header-headerContainer, .SkipToMainContent-skipNav, div.ItemView-options:nth-child(2) > div:nth-child(2), div.row:nth-child(2) > div:nth-child(1) > div:nth-child(2), .MobileSearchHeader-buttonGroup {
+ display:none !important;
+}
     `);
 })();
