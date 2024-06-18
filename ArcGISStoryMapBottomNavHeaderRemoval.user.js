@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ARC GIS Story Map Bottom Navigation and Header Removal
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Moves the nav bar to the bottom for portrait touchscreen and removes the ARC GIS header and repositions the nav for portrait t
 // @author       Ryan Bley
 // @match        https://storymaps.arcgis.com/stories/*
